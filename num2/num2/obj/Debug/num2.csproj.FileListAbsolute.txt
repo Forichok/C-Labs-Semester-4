@@ -1,0 +1,7 @@
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\bin\Debug\num2.exe.config
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\bin\Debug\num2.exe
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\bin\Debug\num2.pdb
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\obj\Debug\num2.csprojResolveAssemblyReference.cache
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\obj\Debug\num2.csproj.CoreCompileInputs.cache
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\obj\Debug\num2.exe
+C:\Users\nnuda\source\HomeWorks_sem4\num2\num2\obj\Debug\num2.pdb

@@ -1,0 +1,7 @@
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\obj\Debug\LAB2.csprojResolveAssemblyReference.cache
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\nnuda\source\HomeWorks_sem4\LAB2\LAB2\obj\Debug\LAB2.pdb

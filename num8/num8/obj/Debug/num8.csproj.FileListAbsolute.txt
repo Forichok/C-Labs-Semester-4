@@ -1,0 +1,7 @@
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\obj\Debug\num8.csprojResolveAssemblyReference.cache
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\obj\Debug\num8.csproj.CoreCompileInputs.cache
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\bin\Debug\num8.exe.config
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\bin\Debug\num8.exe
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\bin\Debug\num8.pdb
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\obj\Debug\num8.exe
+C:\Users\nnuda\source\HomeWorks_sem4\num8\num8\obj\Debug\num8.pdb

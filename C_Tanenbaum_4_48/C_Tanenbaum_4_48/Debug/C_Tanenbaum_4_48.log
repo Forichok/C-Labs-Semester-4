@@ -1,0 +1,5 @@
+﻿  disk_emu.c
+c:\users\nnuda\desktop\simplefs-master\disk_emu.c(1): fatal error C1853: 'Debug\C_Tanenbaum_4_48.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  sfs_test.c
+c:\users\nnuda\desktop\simplefs-master\sfs_test.c(1): fatal error C1853: 'Debug\C_Tanenbaum_4_48.pch' precompiled header file is from a previous version of the compiler, or the precompiled header is C++ and you are using it from C (or vice versa)
+  Generating Code...
